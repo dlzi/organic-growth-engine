@@ -3520,6 +3520,6 @@ By using this guide, you agree to these terms.
 
 ---
 
-**License:** This guide is licensed under the [Creative Commons Attribution-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt this material with attribution.
-
 **Last Updated:** January 15, 2026
+
+**Author:** Daniel Zilli
