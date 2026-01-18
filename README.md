@@ -3303,6 +3303,7 @@ graph TD
 - Monitor SGE performance
 
 **Long-Term Strategy:**
+
 - Build brand recognition (branded searches matter more)
 - Create truly unique, experience-based content
 - Develop proprietary data and research
